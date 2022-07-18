@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wordle-Hangman/static/css/main.9bfb81ed.css",
+    "main.js": "/Wordle-Hangman/static/js/main.08c774a8.js",
+    "static/js/787.20ace30e.chunk.js": "/Wordle-Hangman/static/js/787.20ace30e.chunk.js",
+    "index.html": "/Wordle-Hangman/index.html",
+    "main.9bfb81ed.css.map": "/Wordle-Hangman/static/css/main.9bfb81ed.css.map",
+    "main.08c774a8.js.map": "/Wordle-Hangman/static/js/main.08c774a8.js.map",
+    "787.20ace30e.chunk.js.map": "/Wordle-Hangman/static/js/787.20ace30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfb81ed.css",
+    "static/js/main.08c774a8.js"
+  ]
+}
